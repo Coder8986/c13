@@ -1,0 +1,7 @@
+body{
+    background-color: lightpink;
+}
+
+canvas {
+    border: 5px dotted blueviolet;
+}
